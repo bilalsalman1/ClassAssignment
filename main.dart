@@ -16,10 +16,9 @@ void main() {
     'Thursday',
     'Friday',
     'Saturday',
-    'Sunday'
+    'Sunday',
   ];
   print(Days[6]);
   List<String> ncrgp = ['BilalSalman', 'XI', '031456', 'A', '79'];
   print(ncrgp);
 }
-W
